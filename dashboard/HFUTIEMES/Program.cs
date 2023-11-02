@@ -9,7 +9,7 @@ namespace HFUTIEMES
     static class Program
     {
         /// <summary>
-        /// 应用程序的主入口点。
+        /// 应用程序的主入口点,2023/11/02。
         /// </summary>
         [STAThread]
         static void Main()

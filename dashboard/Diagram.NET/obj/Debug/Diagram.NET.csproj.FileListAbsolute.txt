@@ -456,3 +456,14 @@ D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\Di
 D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\Diagram.NET\obj\Debug\Diagram.NET.csproj.CopyComplete
 D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\Diagram.NET\obj\Debug\Dalssoft.DiagramNet.dll
 D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\Diagram.NET\obj\Debug\Dalssoft.DiagramNet.pdb
+D:\git\dashboard\Diagram.NET\bin\Debug\Dalssoft.DiagramNet.dll
+D:\git\dashboard\Diagram.NET\bin\Debug\Dalssoft.DiagramNet.pdb
+D:\git\dashboard\Diagram.NET\obj\Debug\Diagram.NET.csprojAssemblyReference.cache
+D:\git\dashboard\Diagram.NET\obj\Debug\Dalssoft.DiagramNet.Designer.resources
+D:\git\dashboard\Diagram.NET\obj\Debug\Dalssoft.DiagramNet.ImageStore.resources
+D:\git\dashboard\Diagram.NET\obj\Debug\Diagram.NET.Resource.resources
+D:\git\dashboard\Diagram.NET\obj\Debug\Diagram.NET.csproj.GenerateResource.cache
+D:\git\dashboard\Diagram.NET\obj\Debug\Diagram.NET.csproj.CoreCompileInputs.cache
+D:\git\dashboard\Diagram.NET\obj\Debug\Diagram.NET.csproj.CopyComplete
+D:\git\dashboard\Diagram.NET\obj\Debug\Dalssoft.DiagramNet.dll
+D:\git\dashboard\Diagram.NET\obj\Debug\Dalssoft.DiagramNet.pdb

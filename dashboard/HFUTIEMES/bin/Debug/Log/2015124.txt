@@ -1,0 +1,371 @@
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 918
+2015-1-24 10:17:03
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 918
+2015-1-24 10:17:17
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 918
+2015-1-24 10:17:32
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 918
+2015-1-24 10:26:29
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 918
+2015-1-24 10:26:44
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 918
+2015-1-24 10:26:59
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.set_URL(String pbstrURL)
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 20
+   在 HFUTIEMES.fabu2.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 254
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 232
+2015-1-24 11:47:03
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.IWMPSettings.set_volume(Int32 plVolume)
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 24
+   在 HFUTIEMES.fabu2.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 256
+   在 HFUTIEMES.fabu2.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 113
+2015-1-24 12:19:52
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.IWMPSettings.set_volume(Int32 plVolume)
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 24
+   在 HFUTIEMES.fabu2.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 256
+   在 HFUTIEMES.fabu2.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 113
+2015-1-24 12:19:52
+*************************************************
+System.IndexOutOfRangeException: 无法找到列 1。
+   在 System.Data.DataColumnCollection.get_Item(Int32 index)
+   在 System.Data.DataRow.get_Item(Int32 columnIndex)
+   在 HFUTIEMES.fabu2.ShowEquipAlert() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 321
+   在 HFUTIEMES.fabu2.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 584
+2015-1-24 12:24:52
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.set_URL(String pbstrURL)
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 20
+   在 HFUTIEMES.fabu2.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 256
+   在 HFUTIEMES.fabu2.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 113
+2015-1-24 12:24:52
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.set_URL(String pbstrURL)
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 20
+   在 HFUTIEMES.fabu2.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 256
+   在 HFUTIEMES.fabu2.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 113
+2015-1-24 12:24:52
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.set_URL(String pbstrURL)
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 20
+   在 HFUTIEMES.fabu2.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 256
+   在 HFUTIEMES.fabu2.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 113
+2015-1-24 12:24:52
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 691
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 637
+2015-1-24 13:23:19
+*************************************************
+System.IndexOutOfRangeException: 无法找到列 1。
+   在 System.Data.DataColumnCollection.get_Item(Int32 index)
+   在 System.Data.DataRow.get_Item(Int32 columnIndex)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 671
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 637
+2015-1-24 13:23:20
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 691
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 637
+2015-1-24 14:58:21
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): Timeout 时间已到。在操作完成之前超时时间已过或服务器未响应。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParserStateObject.ReadSniError(TdsParserStateObject stateObj, UInt32 error)
+   在 System.Data.SqlClient.TdsParserStateObject.ReadSni(DbAsyncResult asyncResult, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.TdsParserStateObject.ReadNetworkPacket()
+   在 System.Data.SqlClient.TdsParserStateObject.ReadBuffer()
+   在 System.Data.SqlClient.TdsParserStateObject.ReadByte()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 955
+2015-1-24 14:58:45
+*************************************************
+System.Exception: 在从服务器接收结果时发生传输级错误。 (provider: TCP Provider, error: 0 - 由本地系统中止网络连接。)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-24 14:58:58
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在从服务器接收结果时发生传输级错误。 (provider: TCP Provider, error: 0 - 由本地系统中止网络连接。)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 665
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 637
+2015-1-24 14:59:01
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-24 14:59:03
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-24 14:59:13
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 955
+2015-1-24 14:59:15
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 691
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 637
+2015-1-24 14:59:28
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 691
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 637
+2015-1-24 14:59:31
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.set_URL(String pbstrURL)
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 20
+   在 HFUTIEMES.fabu4.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 293
+   在 HFUTIEMES.fabu4.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 150
+2015-1-24 14:59:31
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 691
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 637
+2015-1-24 14:59:51
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.stop()
+   在 HFUTIEMES.ClassMediaPlay.Stop() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 34
+   在 HFUTIEMES.fabu2.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 268
+   在 HFUTIEMES.fabu2.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 114
+2015-1-24 15:11:27
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.set_URL(String pbstrURL)
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 20
+   在 HFUTIEMES.fabu2.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 258
+   在 HFUTIEMES.fabu2.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 114
+2015-1-24 15:11:35
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.set_uiMode(String pbstrMode)
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 21
+   在 HFUTIEMES.fabu2.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 258
+   在 HFUTIEMES.fabu2.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 114
+2015-1-24 15:11:35
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.get_playState()
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 20
+   在 HFUTIEMES.fabu2.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 259
+   在 HFUTIEMES.fabu2.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 114
+2015-1-24 15:38:16
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.set_uiMode(String pbstrMode)
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 25
+   在 HFUTIEMES.fabu2.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 259
+   在 HFUTIEMES.fabu2.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 114
+2015-1-24 15:38:16
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.get_playState()
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 20
+   在 HFUTIEMES.fabu2.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 259
+   在 HFUTIEMES.fabu2.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 114
+2015-1-24 15:38:17
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.get_settings()
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 28
+   在 HFUTIEMES.fabu2.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 259
+   在 HFUTIEMES.fabu2.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 114
+2015-1-24 15:38:56
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.IWMPSettings.set_volume(Int32 plVolume)
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 28
+   在 HFUTIEMES.fabu2.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 259
+   在 HFUTIEMES.fabu2.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 114
+2015-1-24 15:38:56
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.IWMPSettings.set_volume(Int32 plVolume)
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 28
+   在 HFUTIEMES.fabu2.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 259
+   在 HFUTIEMES.fabu2.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 114
+2015-1-24 15:38:56
+*************************************************
+System.Exception: 在从服务器接收结果时发生传输级错误。 (provider: TCP Provider, error: 0 - 由本地系统中止网络连接。)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 168
+2015-1-24 15:57:26
+*************************************************
+System.Exception: 在从服务器接收结果时发生传输级错误。 (provider: TCP Provider, error: 0 - 由本地系统中止网络连接。)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 168
+2015-1-24 15:58:02
+*************************************************
+System.Exception: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 168
+2015-1-24 15:58:35
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 168
+2015-1-24 15:58:35
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 168
+2015-1-24 15:58:41
+*************************************************

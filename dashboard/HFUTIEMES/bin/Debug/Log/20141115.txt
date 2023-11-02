@@ -1,0 +1,119 @@
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.FormVmManage.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\FormVmManage.cs:行号 1674
+   在 HFUTIEMES.FormVmManage.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\FormVmManage.cs:行号 1883
+2014-11-15 14:51:47
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.FormVmManage.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\FormVmManage.cs:行号 1674
+   在 HFUTIEMES.FormVmManage.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\FormVmManage.cs:行号 1883
+2014-11-15 14:52:02
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.FormVmManage.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\FormVmManage.cs:行号 1674
+   在 HFUTIEMES.FormVmManage.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\FormVmManage.cs:行号 1883
+2014-11-15 14:52:17
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.FormVmManage.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\FormVmManage.cs:行号 1674
+   在 HFUTIEMES.FormVmManage.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\FormVmManage.cs:行号 1883
+2014-11-15 14:52:32
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.FormVmManage.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\FormVmManage.cs:行号 1674
+   在 HFUTIEMES.FormVmManage.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\FormVmManage.cs:行号 1883
+2014-11-15 14:52:47
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.FormVmManage.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\FormVmManage.cs:行号 1674
+   在 HFUTIEMES.FormVmManage.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\FormVmManage.cs:行号 1883
+2014-11-15 14:53:02
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.FormVmManage.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\FormVmManage.cs:行号 1674
+   在 HFUTIEMES.FormVmManage.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\FormVmManage.cs:行号 1883
+2014-11-15 14:53:17
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 779
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 407
+2014-11-15 16:56:10
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 779
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 407
+2014-11-15 16:56:25
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 779
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 407
+2014-11-15 16:56:40
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 779
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 407
+2014-11-15 16:56:55
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 633
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 407
+2014-11-15 17:40:05
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 633
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 407
+2014-11-15 17:40:20
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 633
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 407
+2014-11-15 17:40:35
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 633
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 407
+2014-11-15 17:40:50
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 633
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 407
+2014-11-15 17:41:05
+*************************************************
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.ParseSingle(String value, NumberStyles options, NumberFormatInfo numfmt)
+   在 System.Convert.ToSingle(String value)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 633
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 407
+2014-11-15 17:41:20
+*************************************************

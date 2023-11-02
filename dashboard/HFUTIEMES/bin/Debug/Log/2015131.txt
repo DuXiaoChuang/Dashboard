@@ -1,0 +1,262 @@
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 10:20:00
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 10:20:00
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在从服务器接收结果时发生传输级错误。 (provider: TCP Provider, error: 0 - 由本地系统中止网络连接。)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 682
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 654
+2015-1-31 10:20:03
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 10:20:18
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 682
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 654
+2015-1-31 10:20:18
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 682
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 654
+2015-1-31 10:20:18
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 10:20:44
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 682
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 654
+2015-1-31 10:20:44
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 682
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 654
+2015-1-31 10:20:44
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 10:20:45
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 10:21:14
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 682
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 654
+2015-1-31 10:21:14
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 682
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 654
+2015-1-31 10:21:14
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 10:21:15
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 682
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 654
+2015-1-31 10:21:29
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 10:21:30
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 10:21:59
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 682
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 654
+2015-1-31 10:21:59
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 682
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 654
+2015-1-31 10:21:59
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 10:22:00
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 682
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 654
+2015-1-31 10:22:14
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 10:22:15
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 682
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 654
+2015-1-31 10:22:29
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 10:22:30
+*************************************************
+System.Exception: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 10:23:00
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 682
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 654
+2015-1-31 10:23:25
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 682
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 654
+2015-1-31 11:53:10
+*************************************************
+System.Exception: 在从服务器接收结果时发生传输级错误。 (provider: TCP Provider, error: 0 - 由本地系统中止网络连接。)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 11:53:13
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 11:53:38
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 290
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 682
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 654
+2015-1-31 11:53:39
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 682
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 654
+2015-1-31 11:53:39
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 11:53:39
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 972
+2015-1-31 11:53:53
+*************************************************
+System.Exception: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 11:54:09
+*************************************************
+System.Exception: 超时时间已到。超时时间已到，但是尚未从池中获取连接。出现这种情况可能是因为所有池连接均在使用，并且达到了最大池大小。
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 11:54:24
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 682
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 654
+2015-1-31 11:54:30
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 204
+2015-1-31 11:54:30
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.set_uiMode(String pbstrMode)
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 25
+   在 HFUTIEMES.fabu4.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 296
+   在 HFUTIEMES.fabu4.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 150
+2015-1-31 20:02:45
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 972
+2015-1-31 20:03:00
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.get_settings()
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 28
+   在 HFUTIEMES.fabu2.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 281
+   在 HFUTIEMES.fabu2.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 113
+2015-1-31 20:17:25
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.get_settings()
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 29
+   在 HFUTIEMES.fabu2.ShowRealTimeInfo() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 281
+   在 HFUTIEMES.fabu2.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 113
+2015-1-31 20:33:43
+*************************************************

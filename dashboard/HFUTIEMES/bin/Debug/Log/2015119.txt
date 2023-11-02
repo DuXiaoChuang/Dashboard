@@ -1,0 +1,973 @@
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 814
+2015-1-19 15:03:09
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 814
+2015-1-19 15:03:23
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 814
+2015-1-19 15:03:38
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 814
+2015-1-19 15:03:53
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 814
+2015-1-19 15:04:08
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 814
+2015-1-19 15:04:23
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 799
+2015-1-19 15:56:12
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 799
+2015-1-19 15:56:27
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 799
+2015-1-19 15:56:42
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 799
+2015-1-19 16:03:33
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 799
+2015-1-19 16:03:48
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 799
+2015-1-19 16:05:42
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 16:19:37
+*************************************************
+System.InvalidOperationException: 线程间操作无效: 从不是创建控件“fabu4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.get_InternalHandle()
+   在 System.Windows.Forms.Control.get_CreateParams()
+   在 System.Windows.Forms.ScrollableControl.get_CreateParams()
+   在 System.Windows.Forms.ContainerControl.get_CreateParams()
+   在 System.Windows.Forms.UserControl.get_CreateParams()
+   在 System.Windows.Forms.Control.UpdateStylesCore()
+   在 System.Windows.Forms.ScrollableControl.SetVisibleScrollbars(Boolean horiz, Boolean vert)
+   在 System.Windows.Forms.ScrollableControl.ApplyScrollbarChanges(Rectangle display)
+   在 System.Windows.Forms.ScrollableControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ContainerControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ScrollableControl.OnLayout(LayoutEventArgs levent)
+   在 System.Windows.Forms.ContainerControl.OnLayout(LayoutEventArgs e)
+   在 System.Windows.Forms.Control.PerformLayout(LayoutEventArgs args)
+   在 System.Windows.Forms.Control.System.Windows.Forms.Layout.IArrangedElement.PerformLayout(IArrangedElement affectedElement, String affectedProperty)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScroll(Boolean value)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScrollMinSize(Size value)
+   在 Dalssoft.DiagramNet.Designer.Invalidate() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\Diagram.NET\Designer.cs:行号 144
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 208
+2015-1-19 16:19:42
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 16:19:52
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 16:20:06
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 16:20:21
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 16:20:37
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 16:20:51
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 16:21:06
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 16:21:22
+*************************************************
+System.InvalidOperationException: 线程间操作无效: 从不是创建控件“fabu2”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.get_InternalHandle()
+   在 System.Windows.Forms.Control.get_CreateParams()
+   在 System.Windows.Forms.ScrollableControl.get_CreateParams()
+   在 System.Windows.Forms.ContainerControl.get_CreateParams()
+   在 System.Windows.Forms.UserControl.get_CreateParams()
+   在 System.Windows.Forms.Control.UpdateStylesCore()
+   在 System.Windows.Forms.ScrollableControl.SetVisibleScrollbars(Boolean horiz, Boolean vert)
+   在 System.Windows.Forms.ScrollableControl.ApplyScrollbarChanges(Rectangle display)
+   在 System.Windows.Forms.ScrollableControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ContainerControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ScrollableControl.OnLayout(LayoutEventArgs levent)
+   在 System.Windows.Forms.ContainerControl.OnLayout(LayoutEventArgs e)
+   在 System.Windows.Forms.Control.PerformLayout(LayoutEventArgs args)
+   在 System.Windows.Forms.Control.System.Windows.Forms.Layout.IArrangedElement.PerformLayout(IArrangedElement affectedElement, String affectedProperty)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScroll(Boolean value)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScrollMinSize(Size value)
+   在 Dalssoft.DiagramNet.Designer.Invalidate() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\Diagram.NET\Designer.cs:行号 144
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 201
+2015-1-19 16:21:39
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在从服务器接收结果时发生传输级错误。 (provider: TCP Provider, error: 0 - 由本地系统中止网络连接。)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu2.designer1_MouseMove(MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 417
+   在 HFUTIEMES.fabu2.designer1_MouseMove(Object sender, MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 384
+2015-1-19 16:26:36
+*************************************************
+System.Exception: 在从服务器接收结果时发生传输级错误。 (provider: TCP Provider, error: 0 - 由本地系统中止网络连接。)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 166
+2015-1-19 16:26:39
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 166
+2015-1-19 16:26:45
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu2.ShowEquipAlert() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 273
+   在 HFUTIEMES.fabu2.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 541
+2015-1-19 16:26:51
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 166
+2015-1-19 16:26:55
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 290
+   在 HFUTIEMES.fabu2.ShowEquipAlert() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 273
+   在 HFUTIEMES.fabu2.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 541
+2015-1-19 16:26:55
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 166
+2015-1-19 16:26:55
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu2.ShowEquipAlert() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 273
+   在 HFUTIEMES.fabu2.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 541
+2015-1-19 16:26:55
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 166
+2015-1-19 16:27:15
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 290
+   在 HFUTIEMES.fabu2.designer1_MouseMove(MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 417
+   在 HFUTIEMES.fabu2.designer1_MouseMove(Object sender, MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 384
+2015-1-19 16:27:15
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 166
+2015-1-19 16:27:15
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu2.designer1_MouseMove(MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 436
+   在 HFUTIEMES.fabu2.designer1_MouseMove(Object sender, MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 384
+2015-1-19 16:27:15
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.Form1.loadGridView1() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\Form1.cs:行号 49
+   在 HFUTIEMES.Form1.Form1_Load(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\Form1.cs:行号 42
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu2.designer1_DoubleClick(Designer designer) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 511
+   在 HFUTIEMES.fabu2.designer1_DoubleClick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 489
+2015-1-19 16:27:15
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu2.designer1_MouseMove(MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 436
+   在 HFUTIEMES.fabu2.designer1_MouseMove(Object sender, MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 384
+2015-1-19 16:27:15
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu2.designer1_MouseMove(MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 436
+   在 HFUTIEMES.fabu2.designer1_MouseMove(Object sender, MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 384
+2015-1-19 16:27:15
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu2.ShowEquipAlert() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 273
+   在 HFUTIEMES.fabu2.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 541
+2015-1-19 16:27:15
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu2.designer1_MouseMove(MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 436
+   在 HFUTIEMES.fabu2.designer1_MouseMove(Object sender, MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 384
+2015-1-19 16:27:16
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.Form1.loadGridView1() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\Form1.cs:行号 49
+   在 HFUTIEMES.Form1.Form1_Load(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\Form1.cs:行号 42
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu2.designer1_DoubleClick(Designer designer) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 511
+   在 HFUTIEMES.fabu2.designer1_DoubleClick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 489
+2015-1-19 16:27:16
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu2.designer1_MouseMove(MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 436
+   在 HFUTIEMES.fabu2.designer1_MouseMove(Object sender, MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 384
+2015-1-19 16:27:16
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 166
+2015-1-19 16:27:20
+*************************************************
+System.InvalidOperationException: 线程间操作无效: 从不是创建控件“fabu2”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.get_InternalHandle()
+   在 System.Windows.Forms.Control.get_CreateParams()
+   在 System.Windows.Forms.ScrollableControl.get_CreateParams()
+   在 System.Windows.Forms.ContainerControl.get_CreateParams()
+   在 System.Windows.Forms.UserControl.get_CreateParams()
+   在 System.Windows.Forms.Control.UpdateStylesCore()
+   在 System.Windows.Forms.ScrollableControl.SetVisibleScrollbars(Boolean horiz, Boolean vert)
+   在 System.Windows.Forms.ScrollableControl.ApplyScrollbarChanges(Rectangle display)
+   在 System.Windows.Forms.ScrollableControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ContainerControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ScrollableControl.OnLayout(LayoutEventArgs levent)
+   在 System.Windows.Forms.ContainerControl.OnLayout(LayoutEventArgs e)
+   在 System.Windows.Forms.Control.PerformLayout(LayoutEventArgs args)
+   在 System.Windows.Forms.Control.System.Windows.Forms.Layout.IArrangedElement.PerformLayout(IArrangedElement affectedElement, String affectedProperty)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScroll(Boolean value)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScrollMinSize(Size value)
+   在 Dalssoft.DiagramNet.Designer.Invalidate() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\Diagram.NET\Designer.cs:行号 144
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 201
+2015-1-19 16:27:30
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 16:28:41
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 166
+2015-1-19 16:28:46
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 290
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 499
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 471
+2015-1-19 16:28:46
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 173
+2015-1-19 16:28:46
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 173
+2015-1-19 16:28:46
+*************************************************
+System.Exception: 在从服务器接收结果时发生传输级错误。 (provider: TCP Provider, error: 0 - 由本地系统中止网络连接。)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 166
+2015-1-19 16:28:49
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 16:29:01
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 173
+2015-1-19 16:29:05
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 166
+2015-1-19 16:29:05
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 173
+2015-1-19 16:29:05
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 499
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 471
+2015-1-19 16:29:05
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.designer1_MouseMove(MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 325
+   在 HFUTIEMES.fabu4.designer1_MouseMove(Object sender, MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 273
+2015-1-19 16:29:05
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.Form1.loadGridView1() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\Form1.cs:行号 49
+   在 HFUTIEMES.Form1.Form1_Load(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\Form1.cs:行号 42
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu4.designer1_DoubleClick(Designer designer) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 401
+   在 HFUTIEMES.fabu4.designer1_DoubleClick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 379
+2015-1-19 16:29:05
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 16:29:06
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 499
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 471
+2015-1-19 16:29:06
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 173
+2015-1-19 16:29:25
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 173
+2015-1-19 16:29:25
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 166
+2015-1-19 16:29:25
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 166
+2015-1-19 16:29:25
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, Boolean encrypt, Boolean trustServerCert, Boolean integratedSecurity)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 16:29:26
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 499
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 471
+2015-1-19 16:29:26
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 16:29:26
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu4.LoadOnLineQueue() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 499
+   在 HFUTIEMES.fabu4.timer2_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 471
+2015-1-19 16:29:26
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu2.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 166
+2015-1-19 16:29:31
+*************************************************
+System.Exception: 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 173
+2015-1-19 16:29:32
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 16:29:41
+*************************************************
+System.InvalidOperationException: 线程间操作无效: 从不是创建控件“fabu4”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.get_InternalHandle()
+   在 System.Windows.Forms.Control.get_CreateParams()
+   在 System.Windows.Forms.ScrollableControl.get_CreateParams()
+   在 System.Windows.Forms.ContainerControl.get_CreateParams()
+   在 System.Windows.Forms.UserControl.get_CreateParams()
+   在 System.Windows.Forms.Control.UpdateStylesCore()
+   在 System.Windows.Forms.ScrollableControl.SetVisibleScrollbars(Boolean horiz, Boolean vert)
+   在 System.Windows.Forms.ScrollableControl.ApplyScrollbarChanges(Rectangle display)
+   在 System.Windows.Forms.ScrollableControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ContainerControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ScrollableControl.OnLayout(LayoutEventArgs levent)
+   在 System.Windows.Forms.ContainerControl.OnLayout(LayoutEventArgs e)
+   在 System.Windows.Forms.Control.PerformLayout(LayoutEventArgs args)
+   在 System.Windows.Forms.Control.System.Windows.Forms.Layout.IArrangedElement.PerformLayout(IArrangedElement affectedElement, String affectedProperty)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScroll(Boolean value)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScrollMinSize(Size value)
+   在 Dalssoft.DiagramNet.Designer.Invalidate() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\Diagram.NET\Designer.cs:行号 144
+   在 HFUTIEMES.fabu4.GetRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 208
+2015-1-19 16:29:42
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 16:29:57
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 21:17:56
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 21:18:10
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 789
+2015-1-19 21:18:42
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 790
+2015-1-19 21:28:43
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.set_uiMode(String pbstrMode)
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 21
+   在 HFUTIEMES.fabu4.ShowRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 231
+   在 HFUTIEMES.fabu4.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 120
+2015-1-19 21:32:06
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning()
+   在 System.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.CompleteLogin(Boolean enlistOK)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, SqlConnection owningObject)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, Boolean redirectedUserInstance, SqlConnection owningObject, SqlConnectionString connectionOptions, TimeoutTimer timeout)
+   在 System.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(SqlConnection owningObject, TimeoutTimer timeout, SqlConnectionString connectionOptions, String newPassword, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, Object providerInfo, String newPassword, SqlConnection owningObject, Boolean redirectedUserInstance)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnection owningConnection, DbConnectionPool pool, DbConnectionOptions options)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionPool.GetConnection(DbConnection owningObject)
+   在 System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   在 System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu4.CheckConn() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 790
+2015-1-19 21:39:00
+*************************************************
+System.ArgumentException: 列“andon_type_code”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.fabu4.designer1_MouseMove(MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 311
+   在 HFUTIEMES.fabu4.designer1_MouseMove(Object sender, MouseEventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 274
+2015-1-19 21:51:57
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.get_settings()
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 24
+   在 HFUTIEMES.fabu4.ShowRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 231
+   在 HFUTIEMES.fabu4.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 120
+2015-1-19 21:51:57
+*************************************************
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.get_settings()
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 24
+   在 HFUTIEMES.fabu4.ShowRealTimeInfo(Object obj) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 231
+   在 HFUTIEMES.fabu4.GetAlertInfomation(Object sender) 位置 C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 120
+2015-1-19 21:53:28
+*************************************************

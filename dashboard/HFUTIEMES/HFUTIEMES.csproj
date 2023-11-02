@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{221076BE-F647-4AF9-886B-ECE0EEC18635}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HFUTIEMES</RootNamespace>
+    <AssemblyName>GDMES</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>IEMES.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="data, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\data.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.WMPLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.WMPLib.dll</HintPath>
+    </Reference>
+    <Reference Include="OpcNetApi, Version=1.30.3.0, Culture=neutral, PublicKeyToken=9a40e993cbface53">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\OpcNetApi.dll</HintPath>
+    </Reference>
+    <Reference Include="OpcNetApi.Com, Version=1.30.3.0, Culture=neutral, PublicKeyToken=9a40e993cbface53">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\OpcNetApi.Com.dll</HintPath>
+    </Reference>
+    <Reference Include="OpcRcw.Ae, Version=1.10.1.24, Culture=neutral, PublicKeyToken=9a40e993cbface53">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\OpcRcw.Ae.dll</HintPath>
+    </Reference>
+    <Reference Include="OpcRcw.Comn, Version=1.10.1.21, Culture=neutral, PublicKeyToken=9a40e993cbface53">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\OpcRcw.Comn.dll</HintPath>
+    </Reference>
+    <Reference Include="OpcRcw.Da, Version=3.0.2.22, Culture=neutral, PublicKeyToken=9a40e993cbface53">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\OpcRcw.Da.dll</HintPath>
+    </Reference>
+    <Reference Include="OpcRcw.Dx, Version=1.0.1.21, Culture=neutral, PublicKeyToken=9a40e993cbface53">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\OpcRcw.Dx.dll</HintPath>
+    </Reference>
+    <Reference Include="OpcRcw.Hda, Version=1.20.1.21, Culture=neutral, PublicKeyToken=9a40e993cbface53">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\OpcRcw.Hda.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CanvasConfig\AddressItemsDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CanvasConfig\AddressItemsDlg.designer.cs">
+      <DependentUpon>AddressItemsDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CanvasConfig\CanvasDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CanvasConfig\CanvasDlg.designer.cs">
+      <DependentUpon>CanvasDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CanvasConfig\Database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CanvasConfig\Database.Designer.cs">
+      <DependentUpon>Database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CanvasConfig\DatabaseTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CanvasConfig\DatabaseTable.Designer.cs">
+      <DependentUpon>DatabaseTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CanvasConfig\fabustute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CanvasConfig\fabustute.Designer.cs">
+      <DependentUpon>fabustute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CanvasConfig\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CanvasConfig\LoginForm.designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CanvasConfig\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CanvasConfig\MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CanvasConfig\SetData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CanvasConfig\SetData.designer.cs">
+      <DependentUpon>SetData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonClass\1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CommonClass\1.Designer.cs">
+      <DependentUpon>1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CommonClass\ClassMediaPlay.cs" />
+    <Compile Include="CommonClass\DbHelperSQL.cs" />
+    <Compile Include="CommonClass\DecryptEncrypt.cs" />
+    <Compile Include="CommonClass\Error.cs" />
+    <Compile Include="CommonClass\MonitoredObjectProperties.cs" />
+    <Compile Include="CommonClass\Operations.cs" />
+    <Compile Include="CommonClass\SQL.cs" />
+    <Compile Include="CommonClass\SystemLog.cs" />
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonitoredObjects\EquipmentMonitoredDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonitoredObjects\EquipmentMonitoredDlg.designer.cs">
+      <DependentUpon>EquipmentMonitoredDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonitoredObjects\EquipStateMonitoredDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonitoredObjects\EquipStateMonitoredDlg.designer.cs">
+      <DependentUpon>EquipStateMonitoredDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonitoredObjects\fabu3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonitoredObjects\fabu3.Designer.cs">
+      <DependentUpon>fabu3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonitoredObjects\QueMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonitoredObjects\QueMonitor.designer.cs">
+      <DependentUpon>QueMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonitoredObjects\ToolMonitoredDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonitoredObjects\ToolMonitoredDlg.designer.cs">
+      <DependentUpon>ToolMonitoredDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonitoredObjects\ToolStateMonitoredDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonitoredObjects\ToolStateMonitoredDlg.designer.cs">
+      <DependentUpon>ToolStateMonitoredDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MonitoredObjects\ProductMonitoredDlg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MonitoredObjects\ProductMonitoredDlg.designer.cs">
+      <DependentUpon>ProductMonitoredDlg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CanvasConfig\AddressItemsDlg.resx">
+      <DependentUpon>AddressItemsDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CanvasConfig\CanvasDlg.resx">
+      <DependentUpon>CanvasDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CanvasConfig\Database.resx">
+      <DependentUpon>Database.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CanvasConfig\DatabaseTable.resx">
+      <DependentUpon>DatabaseTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CanvasConfig\fabustute.resx">
+      <DependentUpon>fabustute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CanvasConfig\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CanvasConfig\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CanvasConfig\SetData.resx">
+      <DependentUpon>SetData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CommonClass\1.resx">
+      <DependentUpon>1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonitoredObjects\EquipmentMonitoredDlg.resx">
+      <DependentUpon>EquipmentMonitoredDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonitoredObjects\EquipStateMonitoredDlg.resx">
+      <DependentUpon>EquipStateMonitoredDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonitoredObjects\fabu3.resx">
+      <DependentUpon>fabu3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonitoredObjects\QueMonitor.resx">
+      <DependentUpon>QueMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonitoredObjects\ToolMonitoredDlg.resx">
+      <DependentUpon>ToolMonitoredDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonitoredObjects\ToolStateMonitoredDlg.resx">
+      <DependentUpon>ToolStateMonitoredDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonitoredObjects\ProductMonitoredDlg.resx">
+      <DependentUpon>ProductMonitoredDlg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.CanvasDlg.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.CommonClass._1.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.Database.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.DatabaseTable.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.EquipStateMonitoredDlg.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.fabu2.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.fabu3.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.fabu4.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.fabustute.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.Form1.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.Form2.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.FormVmManage.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.LoginForm.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.MainForm.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.OutQueMonitor.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.ProductMonitoredDlg.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.Properties.Resources.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.SetData.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.ToolMonitoredDlg.resources" />
+    <EmbeddedResource Include="obj\x86\Debug\HFUTIEMES.ToolStateMonitoredDlg.resources" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="bin\Debug\GDMES.exe.config" />
+    <None Include="obj\x86\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\x86\Debug\GenerateResource.read.1.tlog" />
+    <None Include="obj\x86\Debug\GenerateResource.write.1.tlog" />
+    <None Include="obj\x86\Debug\HFUTIEMES.csproj.GenerateResource.Cache" />
+    <None Include="obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache" />
+    <None Include="obj\x86\Debug\HFUTIEMES.csprojResolveAssemblyReference.cache" />
+    <None Include="obj\x86\Debug\ResolveAssemblyReference.cache" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Diagram.NET\Diagram.NET.csproj">
+      <Project>{9D1959C7-DBCD-4E81-A5B2-EC43315C732D}</Project>
+      <Name>Diagram.NET</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="OPCAutomation">
+      <Guid>{28E68F91-8D75-11D1-8DC3-3C302A000000}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\GDMES.exe" />
+    <Content Include="bin\Debug\GDMES.pdb" />
+    <Content Include="IEMES.ico" />
+    <Content Include="obj\x86\Debug\GDMES.exe" />
+    <Content Include="obj\x86\Debug\GDMES.pdb" />
+    <Content Include="obj\x86\Debug\HFUTIEMES.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\x86\Debug\Interop.OPCAutomation.dll" />
+    <Content Include="obj\x86\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,7 @@
+System.Runtime.InteropServices.COMException (0x8001010A): 消息筛选器显示应用程序正在使用中。 (异常来自 HRESULT:0x8001010A (RPC_E_SERVERCALL_RETRYLATER))
+   在 WMPLib.WindowsMediaPlayerClass.get_settings()
+   在 HFUTIEMES.ClassMediaPlay.PlayMedia() 位置 E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\CommonClass\ClassMediaPlay.cs:行号 28
+   在 HFUTIEMES.fabu4.ShowRealTimeInfo() 位置 E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 334
+   在 HFUTIEMES.fabu4.GetAlertInfomation(Object sender) 位置 E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu4.cs:行号 150
+2016/10/26 20:28:33
+*************************************************

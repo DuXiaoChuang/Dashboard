@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9D1959C7-DBCD-4E81-A5B2-EC43315C732D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Diagram.NET</RootNamespace>
+    <AssemblyName>Dalssoft.DiagramNet</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="data, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Action\DbHelperSQL.cs" />
+    <Compile Include="Action\DesignerAction.cs" />
+    <Compile Include="Action\EditLabelAction.cs" />
+    <Compile Include="Action\MoveAction.cs" />
+    <Compile Include="Action\ResizeAction.cs" />
+    <Compile Include="Designer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Document.cs" />
+    <Compile Include="DynamicProperty\DependsOnPropertyAttribute.cs" />
+    <Compile Include="DynamicProperty\DynamicTypeDescriptor.cs" />
+    <Compile Include="DynamicProperty\MyConventer.cs" />
+    <Compile Include="DynamicProperty\PropertyInfoDescriptor.cs" />
+    <Compile Include="Element\BaseElement.cs" />
+    <Compile Include="Element\BaseLinkElement.cs" />
+    <Compile Include="Element\CommentBoxElement.cs" />
+    <Compile Include="Element\ConnectorElement.cs" />
+    <Compile Include="Element\controller\CommentBoxController.cs" />
+    <Compile Include="Element\controller\ConnectorController.cs" />
+    <Compile Include="Element\controller\ControllerHelper.cs" />
+    <Compile Include="Element\controller\ElipseController.cs" />
+    <Compile Include="Element\controller\IControllable.cs" />
+    <Compile Include="Element\controller\IController.cs" />
+    <Compile Include="Element\controller\ILabelController.cs" />
+    <Compile Include="Element\controller\IMoveController.cs" />
+    <Compile Include="Element\controller\IResizeController.cs" />
+    <Compile Include="Element\controller\LineController.cs" />
+    <Compile Include="Element\controller\RectangleController.cs" />
+    <Compile Include="Element\controller\RightAngleLinkController.cs" />
+    <Compile Include="Element\ElipseElement.cs" />
+    <Compile Include="Element\ElipseNode.cs" />
+    <Compile Include="Element\ILabelElement.cs" />
+    <Compile Include="Element\LabelElement.cs" />
+    <Compile Include="Element\LineElement.cs" />
+    <Compile Include="Element\NodeElement.cs" />
+    <Compile Include="Element\RectangleElement.cs" />
+    <Compile Include="Element\RectangleNode.cs" />
+    <Compile Include="Element\RightAngleLinkElement.cs" />
+    <Compile Include="Element\StraightLinkElement.cs" />
+    <Compile Include="Enumeration\Enumeration.cs" />
+    <Compile Include="Enumeration\GeneralEnuns.cs" />
+    <Compile Include="Events\ElementConnectEventArgs.cs" />
+    <Compile Include="Events\ElementEventArgs.cs" />
+    <Compile Include="Events\ElementMouseEventArgs.cs" />
+    <Compile Include="Events\ElementSelectionEventArgs.cs" />
+    <Compile Include="DynamicProperty\Function\AndonStatistics.cs" />
+    <Compile Include="DynamicProperty\Function\CheckList.cs" />
+    <Compile Include="DynamicProperty\Function\DiagramUtil.cs" />
+    <Compile Include="DynamicProperty\Function\ElementCollection.cs" />
+    <Compile Include="DynamicProperty\Function\IContainer.cs" />
+    <Compile Include="DynamicProperty\Function\ImageEditer.cs" />
+    <Compile Include="DynamicProperty\Function\UndoManager.cs" />
+    <Compile Include="ImageStore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImageStore.designer.cs">
+      <DependentUpon>ImageStore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resource.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource.resx</DependentUpon>
+    </Compile>
+    <Compile Include="UserElement\AddressElement.cs" />
+    <Compile Include="UserElement\AndonElement.cs" />
+    <Compile Include="UserElement\AndonStatisElement.cs" />
+    <Compile Include="UserElement\dianneng.cs" />
+    <Compile Include="UserElement\EquipAlarmExcel.cs" />
+    <Compile Include="UserElement\EquipState.cs" />
+    <Compile Include="UserElement\Groove.cs" />
+    <Compile Include="UserElement\gu.cs" />
+    <Compile Include="UserElement\LEDAndon.cs" />
+    <Compile Include="UserElement\DigitalScreen.cs" />
+    <Compile Include="UserElement\EngineElement.cs" />
+    <Compile Include="UserElement\EquipmentElement.cs" />
+    <Compile Include="UserElement\OnlineNumber.cs" />
+    <Compile Include="UserElement\PersonnelElement.cs" />
+    <Compile Include="UserElement\ProductTraceExcel.cs" />
+    <Compile Include="UserElement\RackElement.cs" />
+    <Compile Include="UserElement\RfidElement.cs" />
+    <Compile Include="UserElement\shidu.cs" />
+    <Compile Include="UserElement\StartEndElement.cs" />
+    <Compile Include="UserElement\Temperature.cs" />
+    <Compile Include="UserElement\ToolState.cs" />
+    <Compile Include="UserElement\ToolStateExcel.cs" />
+    <Compile Include="UserElement\WorkCenter.cs" />
+    <Compile Include="UserElement\WorkCenterModel.cs" />
+    <Compile Include="UserElement\wuliao.cs" />
+    <Compile Include="UserElement\xiaoxi.cs" />
+    <Compile Include="UserElement\zhiliang.cs" />
+    <Compile Include="UserElement\ZoneElement.cs" />
+    <Compile Include="UserElement\IPCElement.cs" />
+    <Compile Include="UserElement\ZoneAlarmElement.cs" />
+    <Compile Include="UserElement\TextTime.cs" />
+    <Compile Include="UserElement\TextDynamic.cs" />
+    <Compile Include="UserElement\TextDate.cs" />
+    <Compile Include="UserElement\DigitalTime.cs" />
+    <Compile Include="UserElement\TextWeek.cs" />
+    <Compile Include="UserElement\WorkOrder.cs" />
+    <Compile Include="UserElement\WorkOrderTile.cs" />
+    <Compile Include="UserElement\StraightLine.cs" />
+    <Compile Include="UserElement\NetConnectState.cs" />
+    <Compile Include="UserElement\Rack1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OnlineLeftOff.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Designer.resx">
+      <DependentUpon>Designer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImageStore.resx">
+      <DependentUpon>ImageStore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AndonOff.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AndonOn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EnginePNG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\equipAlert.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\equipOn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HOME.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NEXT.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\personnel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PRE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rack.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RackAlert.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RfidOff.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RfidOn.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OnlineLeftOn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\图片1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connection.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\新建 Microsoft Visio 绘图2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nonconnection.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gu2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guidao.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guidao1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guidao3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\equipOff.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rack11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\料架2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\料架1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AndonAlert.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gu1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tool.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\T00013.jpg" />
+    <None Include="Resources\T00016.jpg" />
+    <None Include="Resources\T00004.jpg" />
+    <None Include="Resources\T00002.jpg" />
+    <None Include="Resources\T00015.jpg" />
+    <None Include="Resources\T00017.jpg" />
+    <None Include="Resources\T00001.jpg" />
+    <None Include="Resources\T00003.jpg" />
+    <None Include="Resources\T00005.jpg" />
+    <None Include="Resources\T00006.jpg" />
+    <None Include="Resources\T00009.jpg" />
+    <None Include="Resources\T00008.jpg" />
+    <None Include="Resources\T00010.jpg" />
+    <None Include="Resources\T00011.jpg" />
+    <None Include="Resources\T00012.jpg" />
+    <None Include="Resources\T00014.jpg" />
+    <None Include="Resources\bb.bmp" />
+    <None Include="Resources\bb.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\T00007.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\T00007.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\T00007.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

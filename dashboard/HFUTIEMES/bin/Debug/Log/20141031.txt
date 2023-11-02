@@ -1,0 +1,6 @@
+System.Data.SqlClient.SqlException (0x80131904): 在从服务器接收结果时发生传输级错误。 (provider: TCP Provider, error: 0 - 指定的网络名不再可用。)
+   在 data.DBQuery.OpenTable1(String sql)
+   在 HFUTIEMES.fabu2.ShowEquipAlert() 位置 C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 215
+   在 HFUTIEMES.fabu2.timer1_Tick(Object sender, EventArgs e) 位置 C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\MonitoredObjects\fabu2.cs:行号 445
+2014/10/31 16:44:38
+*************************************************

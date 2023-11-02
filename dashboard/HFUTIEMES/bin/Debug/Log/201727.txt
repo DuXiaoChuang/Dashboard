@@ -1,0 +1,1658 @@
+System.InvalidOperationException: 线程间操作无效: 从不是创建控件“fabu3”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.get_InternalHandle()
+   在 System.Windows.Forms.Control.get_CreateParams()
+   在 System.Windows.Forms.ScrollableControl.get_CreateParams()
+   在 System.Windows.Forms.ContainerControl.get_CreateParams()
+   在 System.Windows.Forms.UserControl.get_CreateParams()
+   在 System.Windows.Forms.Control.UpdateStylesCore()
+   在 System.Windows.Forms.ScrollableControl.SetVisibleScrollbars(Boolean horiz, Boolean vert)
+   在 System.Windows.Forms.ScrollableControl.ApplyScrollbarChanges(Rectangle display)
+   在 System.Windows.Forms.ScrollableControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ContainerControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ScrollableControl.OnLayout(LayoutEventArgs levent)
+   在 System.Windows.Forms.ContainerControl.OnLayout(LayoutEventArgs e)
+   在 System.Windows.Forms.Control.PerformLayout(LayoutEventArgs args)
+   在 System.Windows.Forms.Control.System.Windows.Forms.Layout.IArrangedElement.PerformLayout(IArrangedElement affectedElement, String affectedProperty)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScroll(Boolean value)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScrollMinSize(Size value)
+   在 Dalssoft.DiagramNet.Designer.Invalidate() 位置 E:\121212121\可视化监控程序\众泰可视化\Diagram.NET\Designer.cs:行号 144
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 189
+2017-02-07 10:16:12
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:16:17
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:16:17
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:16:18
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:17:50
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:17:51
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:17:52
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:25:02
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:25:03
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:25:04
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:25:05
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:38:05
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:41
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:42
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:44
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:44
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:45
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:46
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:47
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:48
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:49
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:50
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:51
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:52
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:53
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:54
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:56
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:57
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:58
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:52:59
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:53:00
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:53:01
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:53:02
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:53:03
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:53:04
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 10:53:05
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 11:02:44
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 11:02:45
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 11:02:45
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 11:02:46
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 11:02:47
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 11:02:47
+*************************************************
+System.Exception: 连接超时时间已到。在尝试使用预登录握手确认时超过了此超时时间。这可能是因为预登录握手失败或服务器未能及时响应。  尝试连接到此服务器时花费的持续时间是 - [Pre-Login] initialization=61549；handshake=117；
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 136
+2017-02-07 14:08:49
+*************************************************
+System.Exception: 连接超时时间已到。在尝试使用预登录握手确认时超过了此超时时间。这可能是因为预登录握手失败或服务器未能及时响应。  尝试连接到此服务器时花费的持续时间是 - [Pre-Login] initialization=61549；handshake=117；
+   在 HFUTIEMES.DbHelperSQL.OpenTable(String SQLString) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\CommonClass\DbHelperSQL.cs:行号 294
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 136
+2017-02-07 14:08:50
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 14:08:51
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 14:14:31
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 14:15:09
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 14:15:32
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 14:15:33
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 14:15:34
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 14:15:35
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 14:15:36
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 14:22:05
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 14:23:12
+*************************************************
+System.ArgumentException: 列“remark”不属于表 。
+   在 System.Data.DataRow.GetDataColumn(String columnName)
+   在 System.Data.DataRow.get_Item(String columnName)
+   在 HFUTIEMES.ToolStateMonitoredDlg.loadGridView1() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 72
+   在 HFUTIEMES.ToolStateMonitoredDlg.Equipment_Load(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\ToolStateMonitoredDlg.cs:行号 46
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.SafeNativeMethods.ShowWindow(HandleRef hWnd, Int32 nCmdShow)
+   在 System.Windows.Forms.Control.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Form.SetVisibleCore(Boolean value)
+   在 System.Windows.Forms.Control.set_Visible(Boolean value)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 HFUTIEMES.fabu3.designer1_Click() 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 337
+   在 HFUTIEMES.fabu3.designer1_Click(Object sender, EventArgs e) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 284
+2017-02-07 14:24:29
+*************************************************
+System.InvalidOperationException: 线程间操作无效: 从不是创建控件“fabu3”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.get_InternalHandle()
+   在 System.Windows.Forms.Control.get_CreateParams()
+   在 System.Windows.Forms.ScrollableControl.get_CreateParams()
+   在 System.Windows.Forms.ContainerControl.get_CreateParams()
+   在 System.Windows.Forms.UserControl.get_CreateParams()
+   在 System.Windows.Forms.Control.UpdateStylesCore()
+   在 System.Windows.Forms.ScrollableControl.SetVisibleScrollbars(Boolean horiz, Boolean vert)
+   在 System.Windows.Forms.ScrollableControl.ApplyScrollbarChanges(Rectangle display)
+   在 System.Windows.Forms.ScrollableControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ContainerControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ScrollableControl.OnLayout(LayoutEventArgs levent)
+   在 System.Windows.Forms.ContainerControl.OnLayout(LayoutEventArgs e)
+   在 System.Windows.Forms.Control.PerformLayout(LayoutEventArgs args)
+   在 System.Windows.Forms.Control.System.Windows.Forms.Layout.IArrangedElement.PerformLayout(IArrangedElement affectedElement, String affectedProperty)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScroll(Boolean value)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScrollMinSize(Size value)
+   在 Dalssoft.DiagramNet.Designer.Invalidate() 位置 E:\121212121\可视化监控程序\众泰可视化\Diagram.NET\Designer.cs:行号 144
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 189
+2017-02-07 14:41:01
+*************************************************
+System.InvalidOperationException: 线程间操作无效: 从不是创建控件“fabu3”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.get_InternalHandle()
+   在 System.Windows.Forms.Control.get_CreateParams()
+   在 System.Windows.Forms.ScrollableControl.get_CreateParams()
+   在 System.Windows.Forms.ContainerControl.get_CreateParams()
+   在 System.Windows.Forms.UserControl.get_CreateParams()
+   在 System.Windows.Forms.Control.UpdateStylesCore()
+   在 System.Windows.Forms.ScrollableControl.SetVisibleScrollbars(Boolean horiz, Boolean vert)
+   在 System.Windows.Forms.ScrollableControl.ApplyScrollbarChanges(Rectangle display)
+   在 System.Windows.Forms.ScrollableControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ContainerControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ScrollableControl.OnLayout(LayoutEventArgs levent)
+   在 System.Windows.Forms.ContainerControl.OnLayout(LayoutEventArgs e)
+   在 System.Windows.Forms.Control.PerformLayout(LayoutEventArgs args)
+   在 System.Windows.Forms.Control.System.Windows.Forms.Layout.IArrangedElement.PerformLayout(IArrangedElement affectedElement, String affectedProperty)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScroll(Boolean value)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScrollMinSize(Size value)
+   在 Dalssoft.DiagramNet.Designer.Invalidate() 位置 E:\121212121\可视化监控程序\众泰可视化\Diagram.NET\Designer.cs:行号 144
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 189
+2017-02-07 14:42:36
+*************************************************
+System.InvalidOperationException: 线程间操作无效: 从不是创建控件“fabu3”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.get_InternalHandle()
+   在 System.Windows.Forms.Control.get_CreateParams()
+   在 System.Windows.Forms.ScrollableControl.get_CreateParams()
+   在 System.Windows.Forms.ContainerControl.get_CreateParams()
+   在 System.Windows.Forms.UserControl.get_CreateParams()
+   在 System.Windows.Forms.Control.UpdateStylesCore()
+   在 System.Windows.Forms.ScrollableControl.SetVisibleScrollbars(Boolean horiz, Boolean vert)
+   在 System.Windows.Forms.ScrollableControl.ApplyScrollbarChanges(Rectangle display)
+   在 System.Windows.Forms.ScrollableControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ContainerControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ScrollableControl.OnLayout(LayoutEventArgs levent)
+   在 System.Windows.Forms.ContainerControl.OnLayout(LayoutEventArgs e)
+   在 System.Windows.Forms.Control.PerformLayout(LayoutEventArgs args)
+   在 System.Windows.Forms.Control.System.Windows.Forms.Layout.IArrangedElement.PerformLayout(IArrangedElement affectedElement, String affectedProperty)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScroll(Boolean value)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScrollMinSize(Size value)
+   在 Dalssoft.DiagramNet.Designer.Invalidate() 位置 E:\121212121\可视化监控程序\众泰可视化\Diagram.NET\Designer.cs:行号 144
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 189
+2017-02-07 14:47:12
+*************************************************

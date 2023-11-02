@@ -1,0 +1,82 @@
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu3.CheckConn() 位置 D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 446
+ClientConnectionId:975ad029-96c5-46f6-a657-867b1348d3ae
+Error Number:18456,State:1,Class:14
+2023/10/31 14:09:44
+*************************************************
+System.InvalidOperationException: 线程间操作无效: 从不是创建控件“fabu3”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.get_InternalHandle()
+   在 System.Windows.Forms.Control.get_CreateParams()
+   在 System.Windows.Forms.ScrollableControl.get_CreateParams()
+   在 System.Windows.Forms.ContainerControl.get_CreateParams()
+   在 System.Windows.Forms.UserControl.get_CreateParams()
+   在 System.Windows.Forms.Control.UpdateStylesCore()
+   在 System.Windows.Forms.ScrollableControl.SetVisibleScrollbars(Boolean horiz, Boolean vert)
+   在 System.Windows.Forms.ScrollableControl.ApplyScrollbarChanges(Rectangle display)
+   在 System.Windows.Forms.ScrollableControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ContainerControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ScrollableControl.OnLayout(LayoutEventArgs levent)
+   在 System.Windows.Forms.ContainerControl.OnLayout(LayoutEventArgs e)
+   在 System.Windows.Forms.Control.PerformLayout(LayoutEventArgs args)
+   在 System.Windows.Forms.Control.System.Windows.Forms.Layout.IArrangedElement.PerformLayout(IArrangedElement affectedElement, String affectedProperty)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScroll(Boolean value)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScrollMinSize(Size value)
+   在 Dalssoft.DiagramNet.Designer.Invalidate() 位置 D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\Diagram.NET\Designer.cs:行号 145
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 189
+2023/10/31 14:09:51
+*************************************************
+System.Data.SqlClient.SqlException (0x80131904): 用户 'sa' 登录失败。
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionClosed.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 HFUTIEMES.fabu3.CheckConn() 位置 D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 446
+ClientConnectionId:a048df8d-9373-4df0-83f9-81d6667ceaa0
+Error Number:18456,State:1,Class:14
+2023/10/31 14:09:54
+*************************************************
+System.InvalidOperationException: 线程间操作无效: 从不是创建控件“fabu3”的线程访问它。
+   在 System.Windows.Forms.Control.get_Handle()
+   在 System.Windows.Forms.Control.get_InternalHandle()
+   在 System.Windows.Forms.Control.get_CreateParams()
+   在 System.Windows.Forms.ScrollableControl.get_CreateParams()
+   在 System.Windows.Forms.ContainerControl.get_CreateParams()
+   在 System.Windows.Forms.UserControl.get_CreateParams()
+   在 System.Windows.Forms.Control.UpdateStylesCore()
+   在 System.Windows.Forms.ScrollableControl.SetVisibleScrollbars(Boolean horiz, Boolean vert)
+   在 System.Windows.Forms.ScrollableControl.ApplyScrollbarChanges(Rectangle display)
+   在 System.Windows.Forms.ScrollableControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ContainerControl.AdjustFormScrollbars(Boolean displayScrollbars)
+   在 System.Windows.Forms.ScrollableControl.OnLayout(LayoutEventArgs levent)
+   在 System.Windows.Forms.ContainerControl.OnLayout(LayoutEventArgs e)
+   在 System.Windows.Forms.Control.PerformLayout(LayoutEventArgs args)
+   在 System.Windows.Forms.Control.System.Windows.Forms.Layout.IArrangedElement.PerformLayout(IArrangedElement affectedElement, String affectedProperty)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScroll(Boolean value)
+   在 System.Windows.Forms.ScrollableControl.set_AutoScrollMinSize(Size value)
+   在 Dalssoft.DiagramNet.Designer.Invalidate() 位置 D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\Diagram.NET\Designer.cs:行号 145
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 189
+2023/10/31 14:10:05
+*************************************************

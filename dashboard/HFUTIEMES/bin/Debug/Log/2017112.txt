@@ -1,0 +1,2514 @@
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:01:56
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:02:06
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:02:16
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:02:26
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:05:29
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:05:39
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:05:49
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:05:59
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:06:09
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:06:19
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:06:29
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:06:39
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:06:49
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:06:59
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:07:09
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:07:19
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:07:29
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:07:39
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:07:49
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:07:59
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:08:09
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:08:19
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:08:29
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:08:39
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:08:49
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:08:59
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:09:09
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:09:19
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:09:29
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:09:39
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:09:49
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:09:59
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:10:09
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:10:19
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:10:29
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:10:39
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:10:49
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:10:59
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:11:09
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:11:19
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:11:29
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:11:39
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:11:49
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:11:59
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:12:09
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:12:19
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:12:29
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:12:39
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:12:49
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:12:59
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:13:09
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:13:19
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:13:29
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:13:39
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:13:49
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:13:59
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:14:09
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:14:19
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:14:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:14:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:14:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:15:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:15:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:15:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:15:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:15:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:15:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:16:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:16:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:16:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:16:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:16:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:16:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:17:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:17:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:17:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:17:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:17:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:17:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:18:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:18:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:18:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:18:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:18:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:18:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:19:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:19:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:19:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:19:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:19:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:19:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:20:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:20:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:20:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:20:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:20:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:20:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:21:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:21:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:21:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:21:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:21:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:21:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:22:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:22:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:22:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:22:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:22:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:22:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:23:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:23:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:23:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:23:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:23:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:23:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:24:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:24:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:24:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:24:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:24:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:24:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:25:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:25:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:25:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:25:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:25:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:25:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:26:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:26:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:26:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:26:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:26:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:26:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:27:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:27:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:27:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:27:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:27:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:27:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:28:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:28:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:28:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:28:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:28:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:28:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:29:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:29:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:29:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:29:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:29:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:29:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:30:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:30:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:30:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:30:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:30:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:30:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:31:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:31:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:31:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:31:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:31:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:31:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:32:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:32:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:32:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:32:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:32:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:32:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:33:00
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:33:10
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:33:20
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:33:30
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:33:40
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:33:50
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:34:01
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:34:11
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:34:21
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:34:31
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:34:41
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:34:51
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:35:01
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:35:11
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:35:21
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:35:31
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:35:41
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:35:51
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:36:01
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:36:11
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:36:21
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:36:31
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:36:41
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:36:51
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:37:01
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:37:11
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:37:21
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:37:31
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:37:41
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:37:51
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:38:01
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:38:11
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:38:21
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:38:31
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:38:41
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:38:51
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:39:01
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:39:11
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:39:21
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:39:31
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:39:41
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:39:51
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:40:01
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:40:11
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:40:21
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:40:31
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:40:41
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:40:51
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:41:01
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:41:11
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:41:21
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:41:31
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:41:41
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:41:51
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:42:01
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:42:11
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:42:21
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:42:31
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:42:41
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:42:51
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:43:01
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:43:11
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:43:21
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:43:31
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:43:41
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:43:51
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:44:01
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:44:11
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:44:21
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:44:31
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:44:41
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:44:51
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:45:01
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:45:11
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:45:21
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:45:31
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:45:41
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:45:51
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:46:01
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:46:11
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:46:21
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:46:31
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:46:41
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:46:51
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:47:01
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:47:11
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:47:21
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:47:31
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:47:41
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:47:51
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:48:01
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:48:11
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:48:21
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:48:31
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:48:41
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:48:51
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:49:01
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:49:11
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:49:21
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:49:31
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:49:41
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:49:51
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:50:01
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:50:19
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:50:29
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:50:39
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:50:49
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:50:59
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:51:09
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:51:19
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:51:29
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:51:39
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:51:49
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:51:59
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:52:09
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:52:19
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:52:29
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:52:39
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:52:49
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:52:59
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:53:09
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:53:19
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:53:29
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 14:53:39
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:08:15
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:08:25
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:08:35
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:08:45
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:08:55
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:09:05
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:09:15
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:09:25
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:09:35
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:09:45
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:09:55
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:10:05
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:10:15
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:10:25
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:10:35
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:10:45
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:10:55
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:11:05
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:11:15
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:11:25
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:11:35
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:11:46
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:11:56
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:12:06
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:12:16
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:12:26
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:12:36
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:12:46
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:12:56
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:13:06
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:13:16
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:13:26
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:13:36
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:13:46
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:13:56
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:14:06
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:14:16
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:14:26
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:14:36
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:14:46
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:14:56
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:15:06
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:15:16
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:15:26
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:15:36
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:15:46
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:15:56
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:16:06
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:16:16
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:16:26
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:16:36
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:16:46
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:16:56
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:17:06
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:17:16
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:17:26
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:17:36
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:17:46
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:17:56
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:18:06
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:18:16
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:18:26
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:18:36
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:18:46
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:18:56
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:19:06
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:19:16
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:19:26
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:19:36
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:19:46
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:19:56
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:20:06
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:20:16
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:20:26
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:20:36
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:20:46
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:20:56
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:21:06
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:21:16
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:21:26
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:21:36
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:21:46
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:21:56
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:22:06
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:22:16
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:22:26
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:22:36
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:42:57
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:43:07
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:43:17
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:43:27
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:43:37
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:43:47
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:43:57
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:44:07
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:44:17
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:44:27
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:44:37
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:44:47
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:44:57
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:45:07
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:45:17
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:45:27
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:45:37
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:45:47
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:45:57
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:46:07
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:46:17
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:46:27
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:46:37
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:46:47
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:46:57
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:47:07
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:47:17
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:47:27
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:47:37
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:47:47
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:47:57
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:48:07
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:48:17
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:48:27
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:48:37
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:48:47
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:48:57
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:49:07
+*************************************************
+System.IndexOutOfRangeException: 在位置 0 处没有任何行。
+   在 System.Data.RBTree`1.GetNodeByIndex(Int32 userIndex)
+   在 System.Data.DataRowCollection.get_Item(Int32 index)
+   在 HFUTIEMES.fabu3.GetRealTimeInfo(Object obj) 位置 C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\MonitoredObjects\fabu3.cs:行号 175
+2017/1/12 15:49:17
+*************************************************

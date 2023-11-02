@@ -1,0 +1,1208 @@
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResGen.read.4.tlog
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResGen.read.5.tlog
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResGen.read.7.tlog
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResGen.write.4.tlog
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResGen.write.5.tlog
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResGen.write.7.tlog
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\bin\Debug\TestForm.exe
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\bin\Debug\TestForm.pdb
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\TestForm.exe
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\TestForm.pdb
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\TestForm.exe
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\TestForm.pdb
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\bin\Debug\TestForm.exe
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\bin\Debug\TestForm.pdb
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResGen.read.4.tlog
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResGen.read.5.tlog
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResGen.read.7.tlog
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResGen.write.4.tlog
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResGen.write.5.tlog
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\ResGen.write.7.tlog
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES11\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\xiaoqiang\Desktop\HFUTIEMES11\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\xiaoqiang\Desktop\HFUTIEMES11\HFUTIEMES\obj\x86\Debug\TestForm.exe
+C:\Users\xiaoqiang\Desktop\HFUTIEMES11\HFUTIEMES\obj\x86\Debug\TestForm.pdb
+C:\Users\xiaoqiang\Desktop\HFUTIEMES\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\TestForm.exe
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\TestForm.pdb
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\bin\Debug\TestForm.exe
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\bin\Debug\TestForm.pdb
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\ResGen.read.1.tlog
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\ResGen.read.4.tlog
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\ResGen.read.5.tlog
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\ResGen.read.7.tlog
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\ResGen.write.1.tlog
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\ResGen.write.4.tlog
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\ResGen.write.5.tlog
+G:\可视化程序备份\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\ResGen.write.7.tlog
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\TestForm.exe
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\TestForm.pdb
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\bin\Debug\TestForm.exe
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\bin\Debug\TestForm.pdb
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\guangguang\桌面\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\TestForm.exe
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\TestForm.pdb
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\bin\Debug\TestForm.exe
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\bin\Debug\TestForm.pdb
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\xluckwang\Desktop\周光源文件夹\HFUTIEMES - 2013-6-24 入厂用\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\TestForm.exe
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\TestForm.pdb
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\TestForm.exe
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\TestForm.pdb
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+C:\Users\xiaoqiang\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\TestForm.exe
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\TestForm.pdb
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\TestForm.exe
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\TestForm.pdb
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.5.tlog
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.5.tlog
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.6.tlog
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\TestForm.exe
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\TestForm.pdb
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\TestForm.exe
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\TestForm.pdb
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.5.tlog
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.5.tlog
+H:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.6.tlog
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\TestForm.exe
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\TestForm.pdb
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\TestForm.exe
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\TestForm.pdb
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.5.tlog
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.5.tlog
+J:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.6.tlog
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\TestForm.exe
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\TestForm.pdb
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\TestForm.exe
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\TestForm.pdb
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.5.tlog
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.5.tlog
+F:\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.6.tlog
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\TestForm.exe
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\TestForm.pdb
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csprojResolveAssemblyReference.cache
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.GenerateResource.Cache
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\TestForm.exe
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\TestForm.pdb
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+C:\Users\lemons\Desktop\HFUTIEMES - 2013-7-9江淮新要求\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\TestForm.exe
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\TestForm.pdb
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\bin\Debug\TestForm.exe
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\bin\Debug\TestForm.pdb
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csprojResolveAssemblyReference.cache
+C:\Users\TT\Desktop\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.GenerateResource.Cache
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\TestForm.exe
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\TestForm.pdb
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\bin\Debug\TestForm.exe
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\bin\Debug\TestForm.pdb
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\HFUTIEMES - 2013-7-9江淮新要求2\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\TestForm.exe
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\TestForm.pdb
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\bin\Debug\TestForm.exe
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\bin\Debug\TestForm.pdb
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\TestForm.exe
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\TestForm.pdb
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\bin\Debug\TestForm.exe
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\bin\Debug\TestForm.pdb
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csprojResolveAssemblyReference.cache
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.GenerateResource.Cache
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\TestForm.exe
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\TestForm.pdb
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\bin\Debug\TestForm.exe
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\bin\Debug\TestForm.pdb
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csprojResolveAssemblyReference.cache
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\TT\Desktop\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.GenerateResource.Cache
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\bin\Debug\data.dll
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\bin\Debug\Interop.WMPLib.dll
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\bin\Debug\OpcNetApi.Com.dll
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\bin\Debug\OpcNetApi.dll
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\bin\Debug\GDMES.exe
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\bin\Debug\GDMES.pdb
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\GDMES.exe
+F:\可视化监控\HFUTIEMES -2014-3-18\HFUTIEMES -2014-3-7(整合后)\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\GDMES.exe
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\bin\Debug\GDMES.exe
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\bin\Debug\GDMES.pdb
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\可视化监控\HFUTIEMES -2014-3-17\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\admin\Desktop\HFUTIEMES -2014-3-19 - 副本\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.GenerateResource.Cache
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csprojResolveAssemblyReference.cache
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+F:\程序\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.GenerateResource.Cache
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Interop.OPCAutomation.dll
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csprojResolveAssemblyReference.cache
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+I:\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.GenerateResource.Cache
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form1.resources
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+D:\C#\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\data.dll
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Interop.WMPLib.dll
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\OpcNetApi.Com.dll
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\OpcNetApi.dll
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\OpcRcw.Ae.dll
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\OpcRcw.Comn.dll
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\OpcRcw.Da.dll
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\OpcRcw.Dx.dll
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\OpcRcw.Hda.dll
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form1.resources
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialAndonMonitoredDlg.resources
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MaterialMonitoredDlg.resources
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OperatorMonitoredDlg.resources
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.QualityCheckAnalysis.resources
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.RfidMonitoredDlg.resources
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+G:\Program Files\feiq\RecvFace\永升机械(1)\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.4.tlog
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form1.resources
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\htt\Desktop\钟岳昕2014-08-29\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form1.resources
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\htt\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form1.resources
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form1.resources
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\htt\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form1.resources
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu2.resources
+C:\Users\htt\Desktop\YSJX\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu3.resources
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu2.resources
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu3.resources
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form1.resources
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\镜花水月\Desktop\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu2.resources
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu3.resources
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form1.resources
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\htt\Desktop\YSJX\可视化\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabustute.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabustute.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu2.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu3.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form1.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\htt\Desktop\YSJX\可视化（电视）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabustute.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu2.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu3.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form1.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu4.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视不自动发布）\可视化\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form2.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabustute.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form2.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu2.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu3.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu4.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form1.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\htt\Desktop\YSJX\可视化（电视机自动发布-ANDON）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabustute.resources
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form2.resources
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu2.resources
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu3.resources
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu4.resources
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form1.resources
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\htt\Desktop\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabustute.resources
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form2.resources
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu2.resources
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu3.resources
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu4.resources
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form1.resources
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（看板）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\HTT\Desktop\胡婷婷\YSJX\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\user\Desktop\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\user\Desktop\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\user\Desktop\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\user\Desktop\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe.config
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csprojResolveAssemblyReference.cache
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabustute.resources
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form2.resources
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu2.resources
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu3.resources
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu4.resources
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form1.resources
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.FormVmManage.resources
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+E:\项目\永升机械\可视化（LED）\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabustute.resources
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form2.resources
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu3.resources
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OutQueMonitor.resources
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\user\Desktop\HFUTIEMES -2014-3-19\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabustute.resources
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form2.resources
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu3.resources
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OutQueMonitor.resources
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\user\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.GenerateResource.Cache
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabustute.resources
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form2.resources
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu3.resources
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OutQueMonitor.resources
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\PJC\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csprojResolveAssemblyReference.cache
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabustute.resources
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form2.resources
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu3.resources
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OutQueMonitor.resources
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.GenerateResource.Cache
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipStateMonitoredDlg.resources
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.ToolStateMonitoredDlg.resources
+C:\Users\gmg320\Desktop\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.ProductMonitoredDlg.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\GDMES.exe.config
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\Interop.OPCAutomation.dll
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\GDMES.exe
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\GDMES.exe
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\GDMES.pdb
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabustute.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form2.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu3.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OutQueMonitor.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipStateMonitoredDlg.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.ToolStateMonitoredDlg.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.ProductMonitoredDlg.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\众泰MES\5#项目开发\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.ToolMonitoredDlg.resources
+H:\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\GDMES.exe.config
+H:\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+H:\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\GDMES.exe
+H:\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\GDMES.exe.config
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\GDMES.exe
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\GDMES.exe
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\GDMES.pdb
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csprojResolveAssemblyReference.cache
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabustute.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form2.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipStateMonitoredDlg.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu3.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OutQueMonitor.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.ToolMonitoredDlg.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.ToolStateMonitoredDlg.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.ProductMonitoredDlg.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+E:\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.GenerateResource.Cache
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\GDMES.exe.config
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\GDMES.exe
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\GDMES.pdb
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\GDMES.exe
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\GDMES.pdb
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csprojResolveAssemblyReference.cache
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabustute.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form2.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipStateMonitoredDlg.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu3.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OutQueMonitor.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.ToolMonitoredDlg.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.ToolStateMonitoredDlg.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.ProductMonitoredDlg.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+E:\项目\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.GenerateResource.Cache
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\GDMES.exe.config
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\GDMES.exe
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\GDMES.pdb
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.dll
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\bin\Debug\Dalssoft.DiagramNet.pdb
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csprojAssemblyReference.cache
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.ResolveComReference.cache
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.AddressItemsDlg.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CanvasDlg.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Database.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.DatabaseTable.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabustute.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.LoginForm.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.MainForm.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.SetData.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.CommonClass._1.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Form2.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipmentMonitoredDlg.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.EquipStateMonitoredDlg.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.fabu3.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.OutQueMonitor.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.ToolMonitoredDlg.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.ToolStateMonitoredDlg.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.ProductMonitoredDlg.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.Properties.Resources.resources
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.GenerateResource.cache
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.CoreCompileInputs.cache
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\HFUTIEMES.csproj.CopyComplete
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\GDMES.exe
+D:\资料\个人资料\众泰\121212121\可视化监控程序\众泰可视化\HFUTIEMES\obj\x86\Debug\GDMES.pdb
